@@ -1,0 +1,510 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AppMemoryCard with all props but no onPress function renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#C397BB",
+        "borderRadius": 5,
+        "borderWidth": 1,
+        "margin": 10,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "padding": 5,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      >
+        Memory date
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      >
+        Memory Category
+      </Text>
+    </View>
+    <Image
+      source={
+        Object {
+          "uri": "Memory image",
+        }
+      }
+      style={
+        Object {
+          "alignSelf": "center",
+          "height": 150,
+          "width": 250,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "padding": 5,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      >
+        Memory Title
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      >
+        Memory location
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`AppMemoryCard with all props renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={true}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#C397BB",
+        "borderRadius": 5,
+        "borderWidth": 1,
+        "margin": 10,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "padding": 5,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      >
+        Memory date
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      >
+        Memory Category
+      </Text>
+    </View>
+    <Image
+      source={
+        Object {
+          "uri": "Memory image",
+        }
+      }
+      style={
+        Object {
+          "alignSelf": "center",
+          "height": 150,
+          "width": 250,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "padding": 5,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      >
+        Memory Title
+      </Text>
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      >
+        Memory location
+      </Text>
+    </View>
+  </View>
+</View>
+`;
+
+exports[`AppMemoryCard with no props renders correctly 1`] = `
+<View
+  accessible={true}
+  focusable={false}
+  onClick={[Function]}
+  onResponderGrant={[Function]}
+  onResponderMove={[Function]}
+  onResponderRelease={[Function]}
+  onResponderTerminate={[Function]}
+  onResponderTerminationRequest={[Function]}
+  onStartShouldSetResponder={[Function]}
+  style={
+    Object {
+      "opacity": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "backgroundColor": "#C397BB",
+        "borderRadius": 5,
+        "borderWidth": 1,
+        "margin": 10,
+      }
+    }
+  >
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "padding": 5,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      />
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+    <Image
+      source={
+        Object {
+          "uri": undefined,
+        }
+      }
+      style={
+        Object {
+          "alignSelf": "center",
+          "height": 150,
+          "width": 250,
+        }
+      }
+    />
+    <View
+      style={
+        Object {
+          "flexDirection": "row",
+          "justifyContent": "space-between",
+          "padding": 5,
+        }
+      }
+    >
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      />
+      <Text
+        style={
+          Array [
+            Object {
+              "fontFamily": "Arial",
+              "fontSize": 18,
+            },
+            undefined,
+          ]
+        }
+      />
+    </View>
+  </View>
+</View>
+`;
+
+exports[`Login Screen renders correctly 1`] = `
+<RCTSafeAreaView
+  emulateUnlessSupported={true}
+  style={
+    Array [
+      Object {
+        "backgroundColor": "#5985B1",
+        "flex": 1,
+        "marginTop": 0,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "fontFamily": "Arial",
+          "fontSize": 18,
+        },
+        Object {
+          "textAlign": "center",
+        },
+      ]
+    }
+  />
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#5985B1",
+        "flex": 1,
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Array [
+          Object {
+            "fontFamily": "Arial",
+            "fontSize": 18,
+          },
+          undefined,
+        ]
+      }
+    >
+      Please Enter Your Login Details:
+    </Text>
+    <View
+      style={
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        }
+      }
+    >
+      <TextInput
+        allowFontScaling={true}
+        autoCapitalize="none"
+        autoCorrect={false}
+        keyboardType="email-address"
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        placeholder="Email"
+        placeholderTextColor="#000"
+        rejectResponderTermination={true}
+        style={
+          Array [
+            Object {
+              "borderRadius": 20,
+              "borderWidth": 1,
+              "margin": 10,
+              "padding": 10,
+              "width": 200,
+            },
+            undefined,
+          ]
+        }
+        underlineColorAndroid="transparent"
+      />
+      <TextInput
+        allowFontScaling={true}
+        autoCapitalize="none"
+        autoCorrect={false}
+        onBlur={[Function]}
+        onChangeText={[Function]}
+        placeholder="Password"
+        placeholderTextColor="#000"
+        rejectResponderTermination={true}
+        secureTextEntry={true}
+        style={
+          Array [
+            Object {
+              "borderRadius": 20,
+              "borderWidth": 1,
+              "margin": 10,
+              "padding": 10,
+              "width": 200,
+            },
+            undefined,
+          ]
+        }
+        underlineColorAndroid="transparent"
+      />
+      <View
+        accessible={true}
+        focusable={true}
+        onClick={[Function]}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+          }
+        }
+      >
+        <View
+          style={
+            Array [
+              Object {
+                "alignItems": "center",
+                "backgroundColor": "#B279A7",
+                "borderRadius": 10,
+                "borderWidth": 2,
+                "justifyContent": "center",
+                "margin": 10,
+                "padding": 10,
+                "width": 100,
+              },
+              undefined,
+            ]
+          }
+        >
+          <Text
+            style={
+              Array [
+                Object {
+                  "fontFamily": "Arial",
+                  "fontSize": 18,
+                },
+                Array [
+                  Object {
+                    "color": "#000",
+                    "fontSize": 18,
+                    "textAlign": "center",
+                  },
+                  undefined,
+                ],
+              ]
+            }
+          >
+            Login
+          </Text>
+        </View>
+      </View>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

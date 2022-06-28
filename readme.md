@@ -7,4 +7,4 @@ This app was designed for iOS (Apple iPhone SE (2nd Generation 2020)) and may br
 
 You can login with a@a.com and 123456 as the passcode.
 
-This was an assignment for COMP3130 (past unit, grades already released).
+This was an assignment for COMP3130 (past unit, grades already released). It was re-uploaded to a new repo as the old version had personal information.
